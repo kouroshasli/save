@@ -1,6 +1,6 @@
 # Save-Image-as-Type
 
-# English Version
+# Persian version  ##kouroshasli
 
 ## Add for pictures Chrome extension for "Save as PNG/JPG/WebP" right-click menu.
 
