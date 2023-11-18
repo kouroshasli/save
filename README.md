@@ -20,5 +20,5 @@ Reference works 2: [Save Image As PNG 1.0.2](https://chrome.google.com/webstore/
 
 ## Download photos from Google in different formats with this plugin
 
-(https://t.me/
+(https://t.me/kouroshasli
 
